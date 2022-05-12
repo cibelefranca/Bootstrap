@@ -1,12 +1,19 @@
 body{
-    font: 20px Arial, sans-serif;
-}.navbar{
-    background-color: #BBB6B9;
+    font: italic;
+    font-size: larger;
+
+}
+.navbar{
+    background-color: red;
+    
 }
 
 .quem-somos{
-    background-color: aqua;
+    background-color: #B7B3B5;
 
+}
+.foto{
+    border-radius: 10%;
 }
 
 .margin{
@@ -15,11 +22,16 @@ body{
     padding-top: 10px;
 }
 
-.parceiros{
-    background-color: blueviolet;
+.superpoder{
+    background-color: #B7B3B5;
 }
 
 .bg-footer{
     background-color: black;
     color: aliceblue;
+}
+
+.filmes{
+    background-color: #B7B3B5;
+
 }
